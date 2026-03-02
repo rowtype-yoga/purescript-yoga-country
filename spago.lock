@@ -1,15 +1,15 @@
 {
   "workspace": {
     "packages": {
-      "iso3166": {
+      "yoga-country": {
         "path": "./",
         "core": {
           "dependencies": [
-            "control",
             "enums",
             "foreign",
             "maybe",
             "prelude",
+            "transformers",
             "yoga-json"
           ],
           "build_plan": [
